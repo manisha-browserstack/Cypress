@@ -1,0 +1,12 @@
+{
+  "name": "cypress-browserstack",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cypress run",
+    "browserstack": "npx browserstack-cypress run"
+  },
+  "devDependencies": {
+    "browserstack-cypress-cli": "^1.34.0",
+    "cypress": "^13.17.0"
+  }
+}

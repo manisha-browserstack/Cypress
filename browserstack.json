@@ -1,0 +1,26 @@
+{
+  "auth": {
+    "username": "manishasardar_HBC0EW",
+    "access_key": "9EPg5LWmsfP6VNDNXBjp"
+  },
+  "browsers": [
+    {
+      "browser": "chrome",
+      "os": "Windows 10",
+      "versions": ["latest"]
+    },
+    {
+      "browser": "firefox",
+      "os": "Windows 10",
+      "versions": ["latest"]
+    }
+  ],
+  "run_settings": {
+    "cypress_config_file": "./cypress.config.js",
+    "cypress_version": "13.17.0",
+    "project_name": "My Cypress Tests",
+    "build_name": "Build #1",
+    "parallels": 3
+    
+  }
+}
